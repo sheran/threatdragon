@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Phishing",
+    "owner": "Sheran Gunasekera",
+    "description": "This threat model outlines how phishing affects the organization"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Client"
+  }
+}
